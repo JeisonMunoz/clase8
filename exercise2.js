@@ -6,3 +6,6 @@ let book = {
 
 book['title']
 book['yearPublished']
+
+console.log(book['title'])
+console.log(book['yearPublished'])
