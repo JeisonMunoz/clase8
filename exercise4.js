@@ -1,3 +1,5 @@
+// Para agregar un metodo a un objeto creado con let, el formato es: nombre_metodo: function(){...}
+
 let book = {
     title: "1984",
     author: "George Orwell",
